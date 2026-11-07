@@ -58,6 +58,7 @@ PO. Así también se ven los textos que el juego une a otros.
 | `ja.po` | Segunda columna de `engLanguage` |
 | `zh_Hans.po`, `zh_Hant.po`, `fr.po`, `de.po`, `ko.po`, `pl.po` | Traducciones oficiales |
 | `es_419.po` | [Parche esp latinoamericano](https://www.nexusmods.com/worldofhorror/mods/15) de Asenath42 (versión 1.01, hecha para la 1.0 del juego) |
+| `es_ES.po` | [Traducción al castellano](https://www.nexusmods.com/worldofhorror/mods/102) de P3RSONAL16 (versión 3, hecha para la 1.2.3) |
 | `es.po` | Traducción al español en curso |
 
 ## Créditos
@@ -67,3 +68,7 @@ convierte a PO como referencia. Descárgalas, comenta y apoya su trabajo en Nexu
 
 - **Asenath42**: [Latin American Spanish Translation Patch](https://www.nexusmods.com/worldofhorror/mods/15)
   ([portafolio](https://eldritchcoffee.neocities.org), [Ko-fi](https://ko-fi.com/asenath)).
+- **P3RSONAL16**: [WOH - Traducción Castellano](https://www.nexusmods.com/worldofhorror/mods/102).
+
+En Weblate, `es_ES` necesita el alias de proyecto `es_ES:es_150`: Weblate trata
+`es_ES` como `es` y lo mezclaría con `es.po`.
